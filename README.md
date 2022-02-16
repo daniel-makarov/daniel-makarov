@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Makarov!
 - 👀 First of all, I am interested in smart contract, app, and web developement.
 - 🧑‍💻 I’m also currently learning some react in my spare time.
-- 👨‍🏫 Finally, im looking forward to joining a reaserch team in University!
+- 👨‍🏫 Finally, im looking forward to getting my masters in Comp Sci at MIT!
 - 📫 Have any questions, or wanna simply chat? Email me at danielmakarov.dev@gmail.com
 
 <!---
