@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Daniel Makarov!
-- 👀 First of all, I am interested in smart contract, app, and web developement.
-- 🧑‍💻 I’m also currently learning some react in my spare time.
-- 👨‍🏫 Finally, im looking forward to getting my masters in Comp Sci at MIT!
-- 📫 Have any questions, or wanna simply chat? Email me at danielmakarov.dev@gmail.com
+## Hey There! 👨‍💻 👋
 
-<!---
-daniel-makarov/daniel-makarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🤗 About Me
+My name is Daniel, and I am a smart contract developer from Toronto! Im an incoming student in Computer Science and Economics at the University of Toronto, and I currently spend my days programming Web3 Projects and creating YouTube content teaching the basics of Solidity!
+
+### 🖥 Technical Expertise:
+- Solidity
+- Python
+- HTML/CSS/JavaScript
+- React (Learning)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-makarov)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📭 Socials/Contact Me!
+#### - ✉️ Twitter: https://twitter.com/DanielMakarov17
+#### - 🎥 YouTube: https://www.youtube.com/channel/UCMOuMitPLZGkzqXAjoydkKg
+#### - 📸 Instagram: https://www.instagram.com/danielmkrv/
+#### - 📧 E-Mail: danielmakarov.dev@gmail.com
+
